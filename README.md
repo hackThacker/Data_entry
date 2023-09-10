@@ -32,16 +32,19 @@ pip install pandas openpyxl
 
 ```bash
 git clone https://github.com/hackThacker/Data_entry.git
+```
+2. change the working directory
+```bash
 cd Data_entry
 ```
 
-2. Run the Python script:
+3. Run the Python script:
 
 ```bash
-python employee_management.py
+python employe_data_entry.py
 ```
 
-3. Follow the on-screen menu to perform various actions:
+4. Follow the on-screen menu to perform various actions:
 
    - **Create Employee:** Enter employee details, including first name, last name, location, age, and mobile number. The program will automatically assign an employee ID and determine the operator name based on the mobile number prefix.
 
