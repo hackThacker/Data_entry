@@ -1,8 +1,8 @@
-# Data_entry
+# Data Management System
 
 Certainly! Here's a comprehensive README.md file for your GitHub repository that provides a detailed explanation of how the code works:
 
-# Employee Data Management System
+#  Data_entry using python
 
 This Python program is a simple Data Management System that allows you to create, read, and store employee records. It also provides the option to save employee data to CSV and Excel files. The system automatically assigns employee IDs and includes functionality to validate mobile numbers and determine the operator name based on the number's prefix.
 
