@@ -31,8 +31,8 @@ pip install pandas openpyxl
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/employee-data-management.git
-cd employee-data-management
+git clone https://github.com/hackThacker/Data_entry.git
+cd Data_entry
 ```
 
 2. Run the Python script:
